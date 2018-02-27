@@ -1,4 +1,4 @@
-# _To Do List (Typescript)_
+# _To Do List (Angular)_
 
 #### _An application that will allow you to make a to-do list, using typescript & Angular with javascript_
 
